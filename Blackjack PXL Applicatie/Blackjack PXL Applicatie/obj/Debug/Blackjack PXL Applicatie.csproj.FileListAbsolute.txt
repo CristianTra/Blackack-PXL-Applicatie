@@ -1,0 +1,16 @@
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\bin\Debug\Blackjack PXL Applicatie.exe.config
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\bin\Debug\Blackjack PXL Applicatie.exe
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\bin\Debug\Blackjack PXL Applicatie.pdb
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack PXL Applicatie.csproj.AssemblyReference.cache
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack PXL Applicatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\MainWindow.g.cs
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\App.g.cs
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack PXL Applicatie_MarkupCompile.cache
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack PXL Applicatie_MarkupCompile.lref
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\MainWindow.baml
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack PXL Applicatie.g.resources
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack_PXL_Applicatie.Properties.Resources.resources
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack PXL Applicatie.csproj.GenerateResource.cache
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack PXL Applicatie.csproj.CoreCompileInputs.cache
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack PXL Applicatie.exe
+C:\Users\12201642\OneDrive - PXL\Documenten\GitHub\Blackack-PXL-Applicatie\Blackjack PXL Applicatie\Blackjack PXL Applicatie\obj\Debug\Blackjack PXL Applicatie.pdb
